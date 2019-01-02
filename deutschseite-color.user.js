@@ -15,7 +15,7 @@ var COLOR_GRAY = "#808080"
 
 
 //START
-changeBackgroundColor(COLOR_LIGHTGREEN); 
+changeBackgroundColor(COLOR_WHITE); 
 changeTextColor(COLOR_BLACK);
 
 
